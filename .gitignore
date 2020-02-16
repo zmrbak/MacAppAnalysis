@@ -30,6 +30,9 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
+# 所有点的文件，不提交
+.*
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 
